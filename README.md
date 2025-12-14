@@ -10,7 +10,6 @@ Sebuah situs portfolio pribadi untuk membagikan kegiatan, proyek, karya ilmiah, 
 - **Fitur utama**:
   - Halaman profil (sertif, bio, pengalaman).
   - Showcase proyek (coding, desain, penelitian).
-  - Halaman publikasi ilmiah (download file, link DOI).
   - Layanan pembuatan website.
   - Blog / pembaruan kegiatan.
   - Kontak.
